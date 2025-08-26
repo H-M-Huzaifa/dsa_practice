@@ -14,6 +14,8 @@ void main(){
   print(set4);
   Set set5=mySet.difference(mySet2);
   print(set5);
+  Set set6=mySet2.difference(mySet);
+  print(set6);
 
 
 }
