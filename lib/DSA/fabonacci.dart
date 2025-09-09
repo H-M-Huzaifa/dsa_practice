@@ -9,6 +9,8 @@ void main(){
     b=next;
   }
 
+
+  //This was my solution
 //   int b=0;
 //
 // for(int a =0; a<=20; a++){
